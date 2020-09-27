@@ -1,0 +1,9 @@
+R,123,Dave,58
+C,456,DaveH,60
+I,789,David,116
+R,987,DH,6
+C,321,DavidH,60
+I,654,DHahner,162.5
+I,135,Dave Hahner,54
+I,790,David Hahner,108.5
+C,246,D H,82.5

@@ -1,0 +1,12 @@
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab2\CustomerData\bin\Debug\CustomerData.dll
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab2\CustomerData\bin\Debug\CustomerData.pdb
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab2\CustomerData\obj\Debug\CustomerData.csprojAssemblyReference.cache
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab2\CustomerData\obj\Debug\CustomerData.csproj.CoreCompileInputs.cache
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab2\CustomerData\obj\Debug\CustomerData.dll
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab2\CustomerData\obj\Debug\CustomerData.pdb
+C:\Users\hahne\Desktop\David_Hahner_CPRG_200_Lab2\David_Hahner_CPRG_200_Lab2\CustomerData\bin\Debug\CustomerData.dll
+C:\Users\hahne\Desktop\David_Hahner_CPRG_200_Lab2\David_Hahner_CPRG_200_Lab2\CustomerData\bin\Debug\CustomerData.pdb
+C:\Users\hahne\Desktop\David_Hahner_CPRG_200_Lab2\David_Hahner_CPRG_200_Lab2\CustomerData\obj\Debug\CustomerData.csprojAssemblyReference.cache
+C:\Users\hahne\Desktop\David_Hahner_CPRG_200_Lab2\David_Hahner_CPRG_200_Lab2\CustomerData\obj\Debug\CustomerData.csproj.CoreCompileInputs.cache
+C:\Users\hahne\Desktop\David_Hahner_CPRG_200_Lab2\David_Hahner_CPRG_200_Lab2\CustomerData\obj\Debug\CustomerData.dll
+C:\Users\hahne\Desktop\David_Hahner_CPRG_200_Lab2\David_Hahner_CPRG_200_Lab2\CustomerData\obj\Debug\CustomerData.pdb
